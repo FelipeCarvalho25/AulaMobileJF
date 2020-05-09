@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppEscola</string>
+    <string name="aluno">Nome do Aluno</string>
+    <string name="idade">Idade</string>
+    <string name="curso">Curso</string>
+    <string name="btn_name">Salvar</string>
+    <string name="titulo">Formulário de Cadastro de Aluno</string>
+    <string name="cadastro">Cadastrar Aluno</string>
+</resources>
